@@ -28,7 +28,7 @@ const Home = () => {
             <tr>
               <th scope="col">#</th>
               <th scope="col">Name</th>
-              <th scope="col">User Name</th>
+              <th scope="col">Salary</th>
               <th scope="col">Email</th>
               <th>Action</th>
             </tr>
