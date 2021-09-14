@@ -6,3 +6,6 @@
 5) Database used so things not getting deleted on refreshing of the page
 6) dynamic routing used
 7) Bootstrap used for styling
+
+# Demo
+![](https://github.com/JAgrit20/React-Employee_Management/blob/master/React-Users-master/Demo/DEMO.gif)
